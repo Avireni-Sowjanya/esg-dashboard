@@ -1,0 +1,9 @@
+Werk , Menge,Einheit,Kraftstofftyp,Buchungsdatum,Kostenstelle,Lieferant
+PLT1001,2500,L,Diesel,01.03.2026,CC100,Shell
+PLT1002,500,gallons,Petrol,02.03.2026,CC200,BP
+PLT1003,1200,L,Diesel,3/3/2026,CC300,Total
+PLT1004,980,L,Petrol,4/3/2026,CC400,Shell
+PLT1005,-50,L,Diesel,05.03.2026,CC500,BP
+PLT1006,99999,L,Petrol,06.03.2026,CC600,Unknown
+PLT1007,760,gallons,Diesel,7/3/2026,CC700,Chevron
+PLT1008,1800,L,Diesel,3/8/2026,CC800,Shell

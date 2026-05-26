@@ -1,0 +1,37 @@
+[
+  {
+    "trip_id": "TRIP100",
+    "employee_id": "EMP001",
+    "segments": [
+      {
+        "type": "flight",
+        "origin": "DEL",
+        "destination": "LHR",
+        "distance_km": null
+      }
+    ]
+  },
+  {
+    "trip_id": "TRIP101",
+    "employee_id": "EMP002",
+    "segments": [
+      {
+        "type": "hotel",
+        "city": "London",
+        "nights": 3
+      }
+    ]
+  },
+  {
+    "trip_id": "TRIP102",
+    "employee_id": "EMP003",
+    "segments": [
+      {
+        "type": "ground_transport",
+        "origin": "Bangalore",
+        "destination": "Mysore",
+        "distance_km": 145
+      }
+    ]
+  }
+]
